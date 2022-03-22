@@ -2,6 +2,9 @@ variable "region" {
   description = "This is the cloud hosting region where your webapp will be deployed."
 }
 
+variable "access_key" {}
+variable "secret_key" {}
+
 variable "prefix" {
   description = "This is the environment your webapp will be prefixed with. dev, qa, or prod"
 }
