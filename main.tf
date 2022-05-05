@@ -4,7 +4,7 @@ provider "aws" {
 
 module "s3-webapp" {
   source  = "app.terraform.io/dasc345/bart-s3-webapp/aws"
-  version = "1.0.3"
+  version = "1.0.4"
   name    = var.name
   region  = var.region
   prefix  = var.prefix
