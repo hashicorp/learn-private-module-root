@@ -1,4 +1,3 @@
-# Learn Private Modules - Root Configuration
+# Creation d'un S3 bucket avec Terraform
 
-This is the root configuration for the [Learn guide on the private module registry](https://learn.hashicorp.com/terraform/modules/private-modules)
-test 19/04/2021
+Update 05/05/2022
