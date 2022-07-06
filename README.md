@@ -1,3 +1,3 @@
-# Learn Private Modules - Root Configuration
+# Share Modules in the Private Registry - Root Configuration
 
-This is the root configuration for the [Learn guide on the private module registry](https://learn.hashicorp.com/terraform/modules/private-modules)
+The companion repository for the [Learn tutorial](https://learn.hashicorp.com/tutorials/terraform/module-private-registry-share) on using the private registry in Terraform Cloud. This repository contains your root configuration.
